@@ -1,6 +1,7 @@
 # -myslfespace.-github.io
 my GitHub Pages
 <html>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
 <body>
 <div class="hero_bg">
 				<img src="http://i1.17173cdn.com/1tx6lh/YWxqaGBf/images/hero_skin/Orianna_0.jpg" class="img">
